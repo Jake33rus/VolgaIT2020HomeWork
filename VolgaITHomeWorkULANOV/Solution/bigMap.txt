@@ -1,0 +1,21 @@
+20 20
+X X X X X X X X X X X X X X X X X X X X
+X X Q D . . . . . . . . . . . . . C d X
+X X X X X X X X X X X X X X X X . X X X
+X X X X X X X X c . X X X X X X . X X X
+X b X X X X H X B X X X X X X X . X X X
+X . X X H X . . . . . . . . . . 4 X X X
+X . X X . X X X X X X X X X X X . . H X
+X . . . . . . . . X X X X X H X . X X X
+X X X X . X X X . X X X X X . X 3 X X X
+X X X X . X X X . X X X X X . X . X X X
+X . a X . X X X . . . A 4 . . . . X X X
+X . X X . X X X X X X X X X X X X X X X
+X . X X . X . . . . . . . . X X X X X X
+X . X X . X . X X X X X X . X X X X X X
+X . X . . . 2 . . . . H X . X X X X X X
+X . X . X X X X X X X X X . X X X X X X
+X . . . X X X X X . . . . . . . . . . X
+X X X X X X X X X X X X X X X X X X . X
+X X S . . . . . . . . . . . . . 2 . . X
+X X X X X X X X X X X X X X X X X X X X

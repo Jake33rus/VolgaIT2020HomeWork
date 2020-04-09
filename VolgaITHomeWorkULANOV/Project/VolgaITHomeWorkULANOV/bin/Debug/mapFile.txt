@@ -1,0 +1,11 @@
+﻿10 10
+X X X X X X X X X X
+X S X . . . . b H X
+X X X X X . X X X X
+X . B . . . X Q 4 X
+X . X . X X X X D X
+X . X . . . X X . X
+X 2 X X X . . C . X
+X . X a X A X X X X
+X . . d X . . c H X
+X X X X X X X X X X
